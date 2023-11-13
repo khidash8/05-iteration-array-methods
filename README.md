@@ -1,2 +1,2 @@
 # Iteration-array-methods
-# followuo to Brad Traversy's JS Course
+# followup to Brad Traversy's JS Course
